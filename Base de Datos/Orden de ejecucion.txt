@@ -1,0 +1,8 @@
+1)SistemaBase
+para crear la base de datos y con las distintas tablas
+
+2)ProcedimientoAlmacenados
+ejecutar posteriormente los procedimientos alamacenados
+
+3)Insertar Usuario y Personal
+Ejecurar el ultimo script Insertar Usuario y Personal
